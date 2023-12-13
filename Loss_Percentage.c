@@ -5,5 +5,4 @@ int main()
     scanf("%f%f",&x,&y);
     res=(x-y)/x*100;
     printf("%.2f",res);
-    
 }
