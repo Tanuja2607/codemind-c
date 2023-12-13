@@ -1,9 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    float a,b,res;
-    scanf("%f%f",&a,&b);
-    res=2*a-b;
+    float x,y,res;
+    scanf("%f%f",&x,&y);
+    res=2*x-y;
     printf("%.0f",res);
-    
 }
