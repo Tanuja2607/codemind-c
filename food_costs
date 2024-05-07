@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void)
+{
+   int x,y,s;
+   scanf("%d%d",&x,&y);
+   s=6*x+y;
+ 
+   
+}
+
