@@ -1,0 +1,10 @@
+s=int(input("enter nummber:"))
+d=s*s
+r=int(input("enter number:"))
+e=3.14*r*r
+t=int(input("enter number:"))
+f=4*3.14*r*r
+u=int(input("enter number:"))
+v=int(input("enter number:"))
+g=0.5*u*v
+print("result:",d,e,f,g)
