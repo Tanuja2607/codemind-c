@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    int x,y,res;
+    scanf("%d%d",&x,&y);
+    res=(y-x)/x*100;
+    printf("%d",res);
+}
