@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    float kmps,mps;
+    scanf("%f",&kmps);
+    mps=(kmps*1000)/3600;
+    printf("%.2f",mps);
+}
