@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    float inch,cen;
+    scanf("%f",&inch);
+    cen=inch*2.54;
+    printf("%.2f",cen);
+}
